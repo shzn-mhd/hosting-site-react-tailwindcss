@@ -9,7 +9,7 @@ const Hero = () => {
                 <h1 className="md:text-7xl sm:text-6xl text-4xl font-bold md:py6">Grow With Data</h1>
                 <div className="flex justify-center items-center">
                     <p className="md:text-5xl sm:text-4xl text-xl font-bold py-4">
-                        Fast, Felxible, Reasonable  for
+                        Fast, Felxible, Reasonable  for work
                     </p>
                     <ReactTyped className="md:text-5xl sm:text-4xl text-xl font-bold pl-2"
                     strings={['B2B' ,'B2C', 'C2C']} 
